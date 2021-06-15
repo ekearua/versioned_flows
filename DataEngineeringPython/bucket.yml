@@ -1,0 +1,6 @@
+flows:
+  4fd57049-deea-4bd0-b47e-84b907805227: {ver: 1, file: Sql_to_Elastic.snapshot, comments: '',
+    author: anonymous, created: 1623772057931, flowName: Sql to Elastic, flowDesc: Inserting
+      sql records into elasticsearch}
+layoutVer: 1
+bucketId: cd774819-875f-480a-b219-b807d36dbd5b
